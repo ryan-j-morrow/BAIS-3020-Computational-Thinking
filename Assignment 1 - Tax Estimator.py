@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Authors: Ryan Morrow
+Authors: Braden Bullon, Adalyn Goodwin, Ryan Morrow, Daanyal Yakub
 Progran: Assignment 1 - Tax Estimator.py
 Last date modified: 9/5/2024
 The purpose of this program is to estimate Iowa State Income Tax and Federal Income Tax amounts for 2024.
